@@ -1,0 +1,147 @@
+Tool_Dataset_2Tools_2Contents:
+  ur5:
+    joints:
+      - elbow_joint
+      - shoulder_lift_joint
+      - shoulder_pan_joint
+      - wrist_1_joint
+      - wrist_2_joint
+      - wrist_3_joint
+
+    behaviors:
+      - behavior-1-look
+      - behavior-2-fast
+      - behavior-2-slow
+
+    modalities:
+      - camera_depth_image
+      - camera_rgb_image
+      - touch_image
+      - audio
+      - gripper_joint_states
+      - effort
+      - position
+      - velocity
+      - torque
+      - force
+  gen3-lite:
+    joints:
+      - elbow_joint
+      - shoulder_lift_joint
+      - shoulder_pan_joint
+      - wrist_1_joint
+      - wrist_2_joint
+      - wrist_3_joint
+
+    behaviors:
+      - behavior-1-look
+      - behavior-2-fast
+      - behavior-2-slow
+
+    modalities:
+      - camera_depth_image
+      - camera_rgb_image
+      - touch_image
+      - audio
+      - effort
+
+
+Tool_Dataset:
+  ur5:
+    joints:
+      - elbow_joint
+      - shoulder_lift_joint
+      - shoulder_pan_joint
+      - wrist_1_joint
+      - wrist_2_joint
+      - wrist_3_joint
+
+    behaviors:
+      - 1-look
+      - 2-stirring-slow
+      - 3-stirring-fast
+      - 4-stirring-twist
+      - 5-whisk
+      - 6-poke
+
+    modalities:
+      - camera_depth_image
+      - camera_rgb_image
+      - touch_image
+      - audio
+      - gripper_joint_states
+      - effort
+      - position
+      - velocity
+      - torque
+      - force
+
+  gen3-lite:
+    joints:
+      - joint_1
+      - joint_2
+      - joint_3
+      - joint_4
+      - joint_5
+
+    behaviors:
+      - 1-look
+      - 2-stirring-slow
+      - 3-stirring-fast
+      - 4-stirring-twist
+      - 5-whisk
+      - 6-poke
+
+    modalities:
+      - camera_depth_image
+      - camera_rgb_image
+      - touch_image
+      - audio
+      - effort
+      - position
+      - velocity
+
+
+Tool_Dataset_Prob:
+  ur5:
+    joints:
+      - elbow_joint
+      - shoulder_lift_joint
+      - shoulder_pan_joint
+      - wrist_1_joint
+      - wrist_2_joint
+      - wrist_3_joint
+
+    behaviors:
+      - 1-look
+      - 2-stirring-slow
+      - 3-stirring-fast
+      - 4-stirring-twist
+      - 5-whisk
+      - 6-poke
+
+    modalities:
+      - touch_image
+      - audio
+      - effort
+
+  gen3-lite:
+    joints:
+      - joint_1
+      - joint_2
+      - joint_3
+      - joint_4
+      - joint_5
+
+    behaviors:
+      - 1-look
+      - 2-stirring-slow
+      - 3-stirring-fast
+      - 4-stirring-twist
+      - 5-whisk
+      - 6-poke
+
+    modalities:
+      - touch_image
+      - audio
+      - effort

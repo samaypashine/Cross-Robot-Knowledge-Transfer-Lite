@@ -1,0 +1,9 @@
+Linear:
+  model: EncoderDecoderNetwork
+  hyper_parameters:
+    hidden_layer_units: [1000, 500, 250]
+    code_vector: 125
+  trainer:
+    training_epochs: 1000
+    learning_rate: 0.0001
+    use_triplet_loss: True

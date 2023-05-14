@@ -1,0 +1,13 @@
+README.md
+setup.py
+paper5/__init__.py
+paper5/utils.py
+paper5.egg-info/PKG-INFO
+paper5.egg-info/SOURCES.txt
+paper5.egg-info/dependency_links.txt
+paper5.egg-info/requires.txt
+paper5.egg-info/top_level.txt
+paper5/pytorch/__init__.py
+paper5/pytorch/models.py
+paper5/pytorch/setup.py
+paper5/pytorch/utils.py

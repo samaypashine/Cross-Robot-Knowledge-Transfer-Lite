@@ -1,0 +1,137 @@
+Tool_Dataset:
+  gen3-lite:
+    behaviors:
+    - 1-look
+    - 2-stirring-slow
+    - 3-stirring-fast
+    - 4-stirring-twist
+    - 5-whisk
+    - 6-poke
+    joints:
+    - joint_1
+    - joint_2
+    - joint_3
+    - joint_4
+    - joint_5
+    modalities:
+    - camera_depth_image
+    - camera_rgb_image
+    - touch_image
+    - audio
+    - effort
+    - position
+    - velocity
+  ur5:
+    behaviors:
+    - 1-look
+    - 2-stirring-slow
+    - 3-stirring-fast
+    - 4-stirring-twist
+    - 5-whisk
+    - 6-poke
+    joints:
+    - elbow_joint
+    - shoulder_lift_joint
+    - shoulder_pan_joint
+    - wrist_1_joint
+    - wrist_2_joint
+    - wrist_3_joint
+    modalities:
+    - camera_depth_image
+    - camera_rgb_image
+    - touch_image
+    - audio
+    - gripper_joint_states
+    - effort
+    - position
+    - velocity
+    - torque
+    - force
+Tool_Dataset_2Tools_2Contents:
+  gen3-lite:
+    behaviors:
+    - behavior-1-look
+    - behavior-2-fast
+    - behavior-2-slow
+    joints:
+    - elbow_joint
+    - shoulder_lift_joint
+    - shoulder_pan_joint
+    - wrist_1_joint
+    - wrist_2_joint
+    - wrist_3_joint
+    modalities:
+    - camera_depth_image
+    - camera_rgb_image
+    - touch_image
+    - audio
+    - effort
+  ur5:
+    behaviors:
+    - behavior-1-look
+    - behavior-2-fast
+    - behavior-2-slow
+    joints:
+    - elbow_joint
+    - shoulder_lift_joint
+    - shoulder_pan_joint
+    - wrist_1_joint
+    - wrist_2_joint
+    - wrist_3_joint
+    modalities:
+    - camera_depth_image
+    - camera_rgb_image
+    - touch_image
+    - audio
+    - gripper_joint_states
+    - effort
+    - position
+    - velocity
+    - torque
+    - force
+Tool_Dataset_Prob:
+  gen3-lite:
+    behaviors:
+    - 1-look
+    - 2-stirring-slow
+    - 3-stirring-fast
+    - 4-stirring-twist
+    - 5-whisk
+    - 6-poke
+    joints:
+    - joint_1
+    - joint_2
+    - joint_3
+    - joint_4
+    - joint_5
+    modalities:
+    - touch_image
+    - audio
+    - effort
+  ur5:
+    behaviors:
+    - 1-look
+    - 2-stirring-slow
+    - 3-stirring-fast
+    - 4-stirring-twist
+    - 5-whisk
+    - 6-poke
+    joints:
+    - elbow_joint
+    - shoulder_lift_joint
+    - shoulder_pan_joint
+    - wrist_1_joint
+    - wrist_2_joint
+    - wrist_3_joint
+    modalities:
+    - touch_image
+    - audio
+    - effort
+across: robots
+augment_trials: 2
+classifier_name: MLP
+dataset: Tool_Dataset_Prob
+feature: discretized-10-bins
+increment_train_objects: false
+num_folds: 4
+robot: ur5

@@ -1,0 +1,32 @@
+fold_0:
+  test:
+  - chia-seed
+  - chickpea
+  train:
+  - chickpea
+  - empty
+  - metal-nut-bolt
+fold_1:
+  test:
+  - chickpea
+  - metal-nut-bolt
+  train:
+  - chia-seed
+  - empty
+  - metal-nut-bolt
+fold_2:
+  test:
+  - empty
+  - chia-seed
+  train:
+  - chickpea
+  - chia-seed
+  - metal-nut-bolt
+fold_3:
+  test:
+  - metal-nut-bolt
+  - chia-seed
+  train:
+  - chickpea
+  - chia-seed
+  - empty

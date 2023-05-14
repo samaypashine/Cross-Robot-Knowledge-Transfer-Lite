@@ -1,0 +1,578 @@
+Time Log
+
+
+ur5_1-look_metal-scissor_TO_gen3-lite_1-look_metal-scissor_MLP/fold_0/3/touch_image/
+Time: 00:00:00:29.927
+Total Time: 00:00:00:43.150
+
+ur5_1-look_metal-scissor_TO_gen3-lite_1-look_metal-scissor_MLP/fold_0/3/audio/
+Time: 00:00:00:00.131
+Total Time: 00:00:01:17.142
+
+ur5_1-look_metal-scissor_TO_gen3-lite_1-look_metal-scissor_MLP/fold_0/3/effort/
+Time: 00:00:00:00.254
+Total Time: 00:00:01:17.868
+
+ur5_1-look_metal-scissor_TO_gen3-lite_1-look_metal-scissor_MLP/fold_1/3/touch_image/
+Time: 00:00:00:00.261
+Total Time: 00:00:01:23.123
+
+ur5_1-look_metal-scissor_TO_gen3-lite_1-look_metal-scissor_MLP/fold_1/3/audio/
+Time: 00:00:00:00.107
+Total Time: 00:00:01:28.267
+
+ur5_1-look_metal-scissor_TO_gen3-lite_1-look_metal-scissor_MLP/fold_1/3/effort/
+Time: 00:00:00:00.208
+Total Time: 00:00:01:28.742
+
+ur5_1-look_metal-scissor_TO_gen3-lite_1-look_metal-scissor_MLP/fold_2/3/touch_image/
+Time: 00:00:00:00.251
+Total Time: 00:00:01:30.537
+
+ur5_1-look_metal-scissor_TO_gen3-lite_1-look_metal-scissor_MLP/fold_2/3/audio/
+Time: 00:00:00:00.089
+Total Time: 00:00:01:35.579
+
+ur5_1-look_metal-scissor_TO_gen3-lite_1-look_metal-scissor_MLP/fold_2/3/effort/
+Time: 00:00:00:00.246
+Total Time: 00:00:01:36.093
+
+ur5_1-look_metal-scissor_TO_gen3-lite_1-look_metal-scissor_MLP/fold_3/3/touch_image/
+Time: 00:00:00:00.244
+Total Time: 00:00:01:37.825
+
+ur5_1-look_metal-scissor_TO_gen3-lite_1-look_metal-scissor_MLP/fold_3/3/audio/
+Time: 00:00:00:00.084
+Total Time: 00:00:01:42.981
+
+ur5_1-look_metal-scissor_TO_gen3-lite_1-look_metal-scissor_MLP/fold_3/3/effort/
+Time: 00:00:00:00.308
+Total Time: 00:00:01:43.559
+
+ur5_1-look_metal-whisk_TO_gen3-lite_1-look_metal-whisk_MLP/fold_0/3/touch_image/
+Time: 00:00:00:00.240
+Total Time: 00:00:01:46.997
+
+ur5_1-look_metal-whisk_TO_gen3-lite_1-look_metal-whisk_MLP/fold_0/3/audio/
+Time: 00:00:00:00.073
+Total Time: 00:00:01:55.416
+
+ur5_1-look_metal-whisk_TO_gen3-lite_1-look_metal-whisk_MLP/fold_0/3/effort/
+Time: 00:00:00:00.258
+Total Time: 00:00:01:56.211
+
+ur5_1-look_metal-whisk_TO_gen3-lite_1-look_metal-whisk_MLP/fold_1/3/touch_image/
+Time: 00:00:00:00.268
+Total Time: 00:00:01:58.039
+
+ur5_1-look_metal-whisk_TO_gen3-lite_1-look_metal-whisk_MLP/fold_1/3/audio/
+Time: 00:00:00:00.087
+Total Time: 00:00:02:03.311
+
+ur5_1-look_metal-whisk_TO_gen3-lite_1-look_metal-whisk_MLP/fold_1/3/effort/
+Time: 00:00:00:00.230
+Total Time: 00:00:02:03.814
+
+ur5_1-look_metal-whisk_TO_gen3-lite_1-look_metal-whisk_MLP/fold_2/3/touch_image/
+Time: 00:00:00:00.237
+Total Time: 00:00:02:05.566
+
+ur5_1-look_metal-whisk_TO_gen3-lite_1-look_metal-whisk_MLP/fold_2/3/audio/
+Time: 00:00:00:00.086
+Total Time: 00:00:02:10.788
+
+ur5_1-look_metal-whisk_TO_gen3-lite_1-look_metal-whisk_MLP/fold_2/3/effort/
+Time: 00:00:00:00.283
+Total Time: 00:00:02:11.346
+
+ur5_1-look_metal-whisk_TO_gen3-lite_1-look_metal-whisk_MLP/fold_3/3/touch_image/
+Time: 00:00:00:00.253
+Total Time: 00:00:02:13.062
+
+ur5_1-look_metal-whisk_TO_gen3-lite_1-look_metal-whisk_MLP/fold_3/3/audio/
+Time: 00:00:00:00.084
+Total Time: 00:00:02:18.418
+
+ur5_1-look_metal-whisk_TO_gen3-lite_1-look_metal-whisk_MLP/fold_3/3/effort/
+Time: 00:00:00:00.236
+Total Time: 00:00:02:18.978
+
+ur5_2-stirring-slow_metal-scissor_TO_gen3-lite_2-stirring-slow_metal-scissor_MLP/fold_0/3/touch_image/
+Time: 00:00:00:00.711
+Total Time: 00:00:02:23.195
+
+ur5_2-stirring-slow_metal-scissor_TO_gen3-lite_2-stirring-slow_metal-scissor_MLP/fold_0/3/audio/
+Time: 00:00:00:00.094
+Total Time: 00:00:02:51.456
+
+ur5_2-stirring-slow_metal-scissor_TO_gen3-lite_2-stirring-slow_metal-scissor_MLP/fold_0/3/effort/
+Time: 00:00:00:00.371
+Total Time: 00:00:02:52.364
+
+ur5_2-stirring-slow_metal-scissor_TO_gen3-lite_2-stirring-slow_metal-scissor_MLP/fold_1/3/touch_image/
+Time: 00:00:00:00.183
+Total Time: 00:00:02:54.069
+
+ur5_2-stirring-slow_metal-scissor_TO_gen3-lite_2-stirring-slow_metal-scissor_MLP/fold_1/3/audio/
+Time: 00:00:00:00.270
+Total Time: 00:00:03:21.256
+
+ur5_2-stirring-slow_metal-scissor_TO_gen3-lite_2-stirring-slow_metal-scissor_MLP/fold_1/3/effort/
+Time: 00:00:00:00.180
+Total Time: 00:00:03:21.722
+
+ur5_2-stirring-slow_metal-scissor_TO_gen3-lite_2-stirring-slow_metal-scissor_MLP/fold_2/3/touch_image/
+Time: 00:00:00:00.231
+Total Time: 00:00:03:24.346
+
+ur5_2-stirring-slow_metal-scissor_TO_gen3-lite_2-stirring-slow_metal-scissor_MLP/fold_2/3/audio/
+Time: 00:00:00:00.306
+Total Time: 00:00:03:45.666
+
+ur5_2-stirring-slow_metal-scissor_TO_gen3-lite_2-stirring-slow_metal-scissor_MLP/fold_2/3/effort/
+Time: 00:00:00:00.330
+Total Time: 00:00:03:46.269
+
+ur5_2-stirring-slow_metal-scissor_TO_gen3-lite_2-stirring-slow_metal-scissor_MLP/fold_3/3/touch_image/
+Time: 00:00:00:00.254
+Total Time: 00:00:03:48.040
+
+ur5_2-stirring-slow_metal-scissor_TO_gen3-lite_2-stirring-slow_metal-scissor_MLP/fold_3/3/audio/
+Time: 00:00:00:00.111
+Total Time: 00:00:04:09.882
+
+ur5_2-stirring-slow_metal-scissor_TO_gen3-lite_2-stirring-slow_metal-scissor_MLP/fold_3/3/effort/
+Time: 00:00:00:00.186
+Total Time: 00:00:04:10.346
+
+ur5_2-stirring-slow_metal-whisk_TO_gen3-lite_2-stirring-slow_metal-whisk_MLP/fold_0/3/touch_image/
+Time: 00:00:00:00.225
+Total Time: 00:00:04:13.724
+
+ur5_2-stirring-slow_metal-whisk_TO_gen3-lite_2-stirring-slow_metal-whisk_MLP/fold_0/3/audio/
+Time: 00:00:00:00.327
+Total Time: 00:00:04:41.061
+
+ur5_2-stirring-slow_metal-whisk_TO_gen3-lite_2-stirring-slow_metal-whisk_MLP/fold_0/3/effort/
+Time: 00:00:00:00.236
+Total Time: 00:00:04:41.888
+
+ur5_2-stirring-slow_metal-whisk_TO_gen3-lite_2-stirring-slow_metal-whisk_MLP/fold_1/3/touch_image/
+Time: 00:00:00:00.286
+Total Time: 00:00:04:43.687
+
+ur5_2-stirring-slow_metal-whisk_TO_gen3-lite_2-stirring-slow_metal-whisk_MLP/fold_1/3/audio/
+Time: 00:00:00:00.076
+Total Time: 00:00:05:04.443
+
+ur5_2-stirring-slow_metal-whisk_TO_gen3-lite_2-stirring-slow_metal-whisk_MLP/fold_1/3/effort/
+Time: 00:00:00:00.174
+Total Time: 00:00:05:04.900
+
+ur5_2-stirring-slow_metal-whisk_TO_gen3-lite_2-stirring-slow_metal-whisk_MLP/fold_2/3/touch_image/
+Time: 00:00:00:00.237
+Total Time: 00:00:05:06.581
+
+ur5_2-stirring-slow_metal-whisk_TO_gen3-lite_2-stirring-slow_metal-whisk_MLP/fold_2/3/audio/
+Time: 00:00:00:00.094
+Total Time: 00:00:05:28.065
+
+ur5_2-stirring-slow_metal-whisk_TO_gen3-lite_2-stirring-slow_metal-whisk_MLP/fold_2/3/effort/
+Time: 00:00:00:00.283
+Total Time: 00:00:05:28.617
+
+ur5_2-stirring-slow_metal-whisk_TO_gen3-lite_2-stirring-slow_metal-whisk_MLP/fold_3/3/touch_image/
+Time: 00:00:00:00.220
+Total Time: 00:00:05:30.600
+
+ur5_2-stirring-slow_metal-whisk_TO_gen3-lite_2-stirring-slow_metal-whisk_MLP/fold_3/3/audio/
+Time: 00:00:00:00.103
+Total Time: 00:00:05:52.887
+
+ur5_2-stirring-slow_metal-whisk_TO_gen3-lite_2-stirring-slow_metal-whisk_MLP/fold_3/3/effort/
+Time: 00:00:00:00.164
+Total Time: 00:00:05:53.329
+
+ur5_3-stirring-fast_metal-scissor_TO_gen3-lite_3-stirring-fast_metal-scissor_MLP/fold_0/3/touch_image/
+Time: 00:00:00:00.206
+Total Time: 00:00:05:56.104
+
+ur5_3-stirring-fast_metal-scissor_TO_gen3-lite_3-stirring-fast_metal-scissor_MLP/fold_0/3/audio/
+Time: 00:00:00:00.088
+Total Time: 00:00:06:19.511
+
+ur5_3-stirring-fast_metal-scissor_TO_gen3-lite_3-stirring-fast_metal-scissor_MLP/fold_0/3/effort/
+Time: 00:00:00:00.329
+Total Time: 00:00:06:20.128
+
+ur5_3-stirring-fast_metal-scissor_TO_gen3-lite_3-stirring-fast_metal-scissor_MLP/fold_1/3/touch_image/
+Time: 00:00:00:00.152
+Total Time: 00:00:06:21.709
+
+ur5_3-stirring-fast_metal-scissor_TO_gen3-lite_3-stirring-fast_metal-scissor_MLP/fold_1/3/audio/
+Time: 00:00:00:00.199
+Total Time: 00:00:06:43.571
+
+ur5_3-stirring-fast_metal-scissor_TO_gen3-lite_3-stirring-fast_metal-scissor_MLP/fold_1/3/effort/
+Time: 00:00:00:00.206
+Total Time: 00:00:06:44.051
+
+ur5_3-stirring-fast_metal-scissor_TO_gen3-lite_3-stirring-fast_metal-scissor_MLP/fold_2/3/touch_image/
+Time: 00:00:00:00.355
+Total Time: 00:00:06:45.950
+
+ur5_3-stirring-fast_metal-scissor_TO_gen3-lite_3-stirring-fast_metal-scissor_MLP/fold_2/3/audio/
+Time: 00:00:00:00.117
+Total Time: 00:00:07:07.220
+
+ur5_3-stirring-fast_metal-scissor_TO_gen3-lite_3-stirring-fast_metal-scissor_MLP/fold_2/3/effort/
+Time: 00:00:00:00.357
+Total Time: 00:00:07:07.861
+
+ur5_3-stirring-fast_metal-scissor_TO_gen3-lite_3-stirring-fast_metal-scissor_MLP/fold_3/3/touch_image/
+Time: 00:00:00:00.261
+Total Time: 00:00:07:09.785
+
+ur5_3-stirring-fast_metal-scissor_TO_gen3-lite_3-stirring-fast_metal-scissor_MLP/fold_3/3/audio/
+Time: 00:00:00:00.119
+Total Time: 00:00:07:31.898
+
+ur5_3-stirring-fast_metal-scissor_TO_gen3-lite_3-stirring-fast_metal-scissor_MLP/fold_3/3/effort/
+Time: 00:00:00:00.217
+Total Time: 00:00:07:32.396
+
+ur5_3-stirring-fast_metal-whisk_TO_gen3-lite_3-stirring-fast_metal-whisk_MLP/fold_0/3/touch_image/
+Time: 00:00:00:00.286
+Total Time: 00:00:07:35.473
+
+ur5_3-stirring-fast_metal-whisk_TO_gen3-lite_3-stirring-fast_metal-whisk_MLP/fold_0/3/audio/
+Time: 00:00:00:00.116
+Total Time: 00:00:07:59.258
+
+ur5_3-stirring-fast_metal-whisk_TO_gen3-lite_3-stirring-fast_metal-whisk_MLP/fold_0/3/effort/
+Time: 00:00:00:00.211
+Total Time: 00:00:07:59.805
+
+ur5_3-stirring-fast_metal-whisk_TO_gen3-lite_3-stirring-fast_metal-whisk_MLP/fold_1/3/touch_image/
+Time: 00:00:00:00.210
+Total Time: 00:00:08:01.574
+
+ur5_3-stirring-fast_metal-whisk_TO_gen3-lite_3-stirring-fast_metal-whisk_MLP/fold_1/3/audio/
+Time: 00:00:00:00.115
+Total Time: 00:00:08:24.730
+
+ur5_3-stirring-fast_metal-whisk_TO_gen3-lite_3-stirring-fast_metal-whisk_MLP/fold_1/3/effort/
+Time: 00:00:00:00.207
+Total Time: 00:00:08:25.217
+
+ur5_3-stirring-fast_metal-whisk_TO_gen3-lite_3-stirring-fast_metal-whisk_MLP/fold_2/3/touch_image/
+Time: 00:00:00:00.306
+Total Time: 00:00:08:27.107
+
+ur5_3-stirring-fast_metal-whisk_TO_gen3-lite_3-stirring-fast_metal-whisk_MLP/fold_2/3/audio/
+Time: 00:00:00:00.112
+Total Time: 00:00:08:49.563
+
+ur5_3-stirring-fast_metal-whisk_TO_gen3-lite_3-stirring-fast_metal-whisk_MLP/fold_2/3/effort/
+Time: 00:00:00:00.338
+Total Time: 00:00:08:50.227
+
+ur5_3-stirring-fast_metal-whisk_TO_gen3-lite_3-stirring-fast_metal-whisk_MLP/fold_3/3/touch_image/
+Time: 00:00:00:00.247
+Total Time: 00:00:08:51.959
+
+ur5_3-stirring-fast_metal-whisk_TO_gen3-lite_3-stirring-fast_metal-whisk_MLP/fold_3/3/audio/
+Time: 00:00:00:00.235
+Total Time: 00:00:09:14.462
+
+ur5_3-stirring-fast_metal-whisk_TO_gen3-lite_3-stirring-fast_metal-whisk_MLP/fold_3/3/effort/
+Time: 00:00:00:00.203
+Total Time: 00:00:09:14.934
+
+ur5_4-stirring-twist_metal-scissor_TO_gen3-lite_4-stirring-twist_metal-scissor_MLP/fold_0/3/touch_image/
+Time: 00:00:00:00.300
+Total Time: 00:00:09:18.195
+
+ur5_4-stirring-twist_metal-scissor_TO_gen3-lite_4-stirring-twist_metal-scissor_MLP/fold_0/3/audio/
+Time: 00:00:00:00.195
+Total Time: 00:00:09:43.401
+
+ur5_4-stirring-twist_metal-scissor_TO_gen3-lite_4-stirring-twist_metal-scissor_MLP/fold_0/3/effort/
+Time: 00:00:00:00.088
+Total Time: 00:00:09:43.829
+
+ur5_4-stirring-twist_metal-scissor_TO_gen3-lite_4-stirring-twist_metal-scissor_MLP/fold_1/3/touch_image/
+Time: 00:00:00:00.288
+Total Time: 00:00:09:45.882
+
+ur5_4-stirring-twist_metal-scissor_TO_gen3-lite_4-stirring-twist_metal-scissor_MLP/fold_1/3/audio/
+Time: 00:00:00:00.105
+Total Time: 00:00:10:09.056
+
+ur5_4-stirring-twist_metal-scissor_TO_gen3-lite_4-stirring-twist_metal-scissor_MLP/fold_1/3/effort/
+Time: 00:00:00:00.212
+Total Time: 00:00:10:09.619
+
+ur5_4-stirring-twist_metal-scissor_TO_gen3-lite_4-stirring-twist_metal-scissor_MLP/fold_2/3/touch_image/
+Time: 00:00:00:00.286
+Total Time: 00:00:10:11.515
+
+ur5_4-stirring-twist_metal-scissor_TO_gen3-lite_4-stirring-twist_metal-scissor_MLP/fold_2/3/audio/
+Time: 00:00:00:00.121
+Total Time: 00:00:10:33.347
+
+ur5_4-stirring-twist_metal-scissor_TO_gen3-lite_4-stirring-twist_metal-scissor_MLP/fold_2/3/effort/
+Time: 00:00:00:00.092
+Total Time: 00:00:10:33.727
+
+ur5_4-stirring-twist_metal-scissor_TO_gen3-lite_4-stirring-twist_metal-scissor_MLP/fold_3/3/touch_image/
+Time: 00:00:00:00.322
+Total Time: 00:00:10:35.643
+
+ur5_4-stirring-twist_metal-scissor_TO_gen3-lite_4-stirring-twist_metal-scissor_MLP/fold_3/3/audio/
+Time: 00:00:00:00.113
+Total Time: 00:00:10:57.733
+
+ur5_4-stirring-twist_metal-scissor_TO_gen3-lite_4-stirring-twist_metal-scissor_MLP/fold_3/3/effort/
+Time: 00:00:00:00.168
+Total Time: 00:00:10:58.194
+
+ur5_4-stirring-twist_metal-whisk_TO_gen3-lite_4-stirring-twist_metal-whisk_MLP/fold_0/3/touch_image/
+Time: 00:00:00:00.199
+Total Time: 00:00:11:01.606
+
+ur5_4-stirring-twist_metal-whisk_TO_gen3-lite_4-stirring-twist_metal-whisk_MLP/fold_0/3/audio/
+Time: 00:00:00:00.134
+Total Time: 00:00:11:28.136
+
+ur5_4-stirring-twist_metal-whisk_TO_gen3-lite_4-stirring-twist_metal-whisk_MLP/fold_0/3/effort/
+Time: 00:00:00:00.269
+Total Time: 00:00:11:28.744
+
+ur5_4-stirring-twist_metal-whisk_TO_gen3-lite_4-stirring-twist_metal-whisk_MLP/fold_1/3/touch_image/
+Time: 00:00:00:00.200
+Total Time: 00:00:11:30.737
+
+ur5_4-stirring-twist_metal-whisk_TO_gen3-lite_4-stirring-twist_metal-whisk_MLP/fold_1/3/audio/
+Time: 00:00:00:00.482
+Total Time: 00:00:11:54.599
+
+ur5_4-stirring-twist_metal-whisk_TO_gen3-lite_4-stirring-twist_metal-whisk_MLP/fold_1/3/effort/
+Time: 00:00:00:00.207
+Total Time: 00:00:11:55.071
+
+ur5_4-stirring-twist_metal-whisk_TO_gen3-lite_4-stirring-twist_metal-whisk_MLP/fold_2/3/touch_image/
+Time: 00:00:00:00.255
+Total Time: 00:00:11:56.921
+
+ur5_4-stirring-twist_metal-whisk_TO_gen3-lite_4-stirring-twist_metal-whisk_MLP/fold_2/3/audio/
+Time: 00:00:00:00.106
+Total Time: 00:00:12:20.949
+
+ur5_4-stirring-twist_metal-whisk_TO_gen3-lite_4-stirring-twist_metal-whisk_MLP/fold_2/3/effort/
+Time: 00:00:00:00.379
+Total Time: 00:00:12:21.616
+
+ur5_4-stirring-twist_metal-whisk_TO_gen3-lite_4-stirring-twist_metal-whisk_MLP/fold_3/3/touch_image/
+Time: 00:00:00:00.238
+Total Time: 00:00:12:23.410
+
+ur5_4-stirring-twist_metal-whisk_TO_gen3-lite_4-stirring-twist_metal-whisk_MLP/fold_3/3/audio/
+Time: 00:00:00:00.123
+Total Time: 00:00:12:47.525
+
+ur5_4-stirring-twist_metal-whisk_TO_gen3-lite_4-stirring-twist_metal-whisk_MLP/fold_3/3/effort/
+Time: 00:00:00:00.181
+Total Time: 00:00:12:47.988
+
+ur5_5-whisk_metal-scissor_TO_gen3-lite_5-whisk_metal-scissor_MLP/fold_0/3/touch_image/
+Time: 00:00:00:00.315
+Total Time: 00:00:12:51.400
+
+ur5_5-whisk_metal-scissor_TO_gen3-lite_5-whisk_metal-scissor_MLP/fold_0/3/audio/
+Time: 00:00:00:00.211
+Total Time: 00:00:13:20.816
+
+ur5_5-whisk_metal-scissor_TO_gen3-lite_5-whisk_metal-scissor_MLP/fold_0/3/effort/
+Time: 00:00:00:00.336
+Total Time: 00:00:13:21.974
+
+ur5_5-whisk_metal-scissor_TO_gen3-lite_5-whisk_metal-scissor_MLP/fold_1/3/touch_image/
+Time: 00:00:00:00.299
+Total Time: 00:00:13:23.818
+
+ur5_5-whisk_metal-scissor_TO_gen3-lite_5-whisk_metal-scissor_MLP/fold_1/3/audio/
+Time: 00:00:00:00.197
+Total Time: 00:00:13:52.276
+
+ur5_5-whisk_metal-scissor_TO_gen3-lite_5-whisk_metal-scissor_MLP/fold_1/3/effort/
+Time: 00:00:00:00.267
+Total Time: 00:00:13:52.820
+
+ur5_5-whisk_metal-scissor_TO_gen3-lite_5-whisk_metal-scissor_MLP/fold_2/3/touch_image/
+Time: 00:00:00:00.328
+Total Time: 00:00:13:54.863
+
+ur5_5-whisk_metal-scissor_TO_gen3-lite_5-whisk_metal-scissor_MLP/fold_2/3/audio/
+Time: 00:00:00:00.148
+Total Time: 00:00:14:21.455
+
+ur5_5-whisk_metal-scissor_TO_gen3-lite_5-whisk_metal-scissor_MLP/fold_2/3/effort/
+Time: 00:00:00:00.401
+Total Time: 00:00:14:22.170
+
+ur5_5-whisk_metal-scissor_TO_gen3-lite_5-whisk_metal-scissor_MLP/fold_3/3/touch_image/
+Time: 00:00:00:00.324
+Total Time: 00:00:14:23.874
+
+ur5_5-whisk_metal-scissor_TO_gen3-lite_5-whisk_metal-scissor_MLP/fold_3/3/audio/
+Time: 00:00:00:00.165
+Total Time: 00:00:14:54.102
+
+ur5_5-whisk_metal-scissor_TO_gen3-lite_5-whisk_metal-scissor_MLP/fold_3/3/effort/
+Time: 00:00:00:00.227
+Total Time: 00:00:14:54.615
+
+ur5_5-whisk_metal-whisk_TO_gen3-lite_5-whisk_metal-whisk_MLP/fold_0/3/touch_image/
+Time: 00:00:00:00.262
+Total Time: 00:00:14:58.379
+
+ur5_5-whisk_metal-whisk_TO_gen3-lite_5-whisk_metal-whisk_MLP/fold_0/3/audio/
+Time: 00:00:00:00.132
+Total Time: 00:00:15:31.917
+
+ur5_5-whisk_metal-whisk_TO_gen3-lite_5-whisk_metal-whisk_MLP/fold_0/3/effort/
+Time: 00:00:00:00.744
+Total Time: 00:00:15:33.073
+
+ur5_5-whisk_metal-whisk_TO_gen3-lite_5-whisk_metal-whisk_MLP/fold_1/3/touch_image/
+Time: 00:00:00:00.324
+Total Time: 00:00:15:35.190
+
+ur5_5-whisk_metal-whisk_TO_gen3-lite_5-whisk_metal-whisk_MLP/fold_1/3/audio/
+Time: 00:00:00:00.142
+Total Time: 00:00:16:03.401
+
+ur5_5-whisk_metal-whisk_TO_gen3-lite_5-whisk_metal-whisk_MLP/fold_1/3/effort/
+Time: 00:00:00:00.336
+Total Time: 00:00:16:04.084
+
+ur5_5-whisk_metal-whisk_TO_gen3-lite_5-whisk_metal-whisk_MLP/fold_2/3/touch_image/
+Time: 00:00:00:00.311
+Total Time: 00:00:16:06.156
+
+ur5_5-whisk_metal-whisk_TO_gen3-lite_5-whisk_metal-whisk_MLP/fold_2/3/audio/
+Time: 00:00:00:00.467
+Total Time: 00:00:16:31.179
+
+ur5_5-whisk_metal-whisk_TO_gen3-lite_5-whisk_metal-whisk_MLP/fold_2/3/effort/
+Time: 00:00:00:00.396
+Total Time: 00:00:16:32.437
+
+ur5_5-whisk_metal-whisk_TO_gen3-lite_5-whisk_metal-whisk_MLP/fold_3/3/touch_image/
+Time: 00:00:00:00.224
+Total Time: 00:00:16:34.285
+
+ur5_5-whisk_metal-whisk_TO_gen3-lite_5-whisk_metal-whisk_MLP/fold_3/3/audio/
+Time: 00:00:00:00.127
+Total Time: 00:00:17:01.991
+
+ur5_5-whisk_metal-whisk_TO_gen3-lite_5-whisk_metal-whisk_MLP/fold_3/3/effort/
+Time: 00:00:00:00.302
+Total Time: 00:00:17:02.570
+
+ur5_6-poke_metal-scissor_TO_gen3-lite_6-poke_metal-scissor_MLP/fold_0/3/touch_image/
+Time: 00:00:00:00.282
+Total Time: 00:00:17:06.039
+
+ur5_6-poke_metal-scissor_TO_gen3-lite_6-poke_metal-scissor_MLP/fold_0/3/audio/
+Time: 00:00:00:00.194
+Total Time: 00:00:17:38.909
+
+ur5_6-poke_metal-scissor_TO_gen3-lite_6-poke_metal-scissor_MLP/fold_0/3/effort/
+Time: 00:00:00:00.302
+Total Time: 00:00:17:39.534
+
+ur5_6-poke_metal-scissor_TO_gen3-lite_6-poke_metal-scissor_MLP/fold_1/3/touch_image/
+Time: 00:00:00:00.257
+Total Time: 00:00:17:41.448
+
+ur5_6-poke_metal-scissor_TO_gen3-lite_6-poke_metal-scissor_MLP/fold_1/3/audio/
+Time: 00:00:00:00.424
+Total Time: 00:00:18:08.419
+
+ur5_6-poke_metal-scissor_TO_gen3-lite_6-poke_metal-scissor_MLP/fold_1/3/effort/
+Time: 00:00:00:00.208
+Total Time: 00:00:18:08.989
+
+ur5_6-poke_metal-scissor_TO_gen3-lite_6-poke_metal-scissor_MLP/fold_2/3/touch_image/
+Time: 00:00:00:00.288
+Total Time: 00:00:18:11.546
+
+ur5_6-poke_metal-scissor_TO_gen3-lite_6-poke_metal-scissor_MLP/fold_2/3/audio/
+Time: 00:00:00:00.167
+Total Time: 00:00:18:40.379
+
+ur5_6-poke_metal-scissor_TO_gen3-lite_6-poke_metal-scissor_MLP/fold_2/3/effort/
+Time: 00:00:00:00.300
+Total Time: 00:00:18:41.107
+
+ur5_6-poke_metal-scissor_TO_gen3-lite_6-poke_metal-scissor_MLP/fold_3/3/touch_image/
+Time: 00:00:00:00.270
+Total Time: 00:00:18:43.084
+
+ur5_6-poke_metal-scissor_TO_gen3-lite_6-poke_metal-scissor_MLP/fold_3/3/audio/
+Time: 00:00:00:00.446
+Total Time: 00:00:19:08.384
+
+ur5_6-poke_metal-scissor_TO_gen3-lite_6-poke_metal-scissor_MLP/fold_3/3/effort/
+Time: 00:00:00:00.211
+Total Time: 00:00:19:09.006
+
+ur5_6-poke_metal-whisk_TO_gen3-lite_6-poke_metal-whisk_MLP/fold_0/3/touch_image/
+Time: 00:00:00:00.323
+Total Time: 00:00:19:12.318
+
+ur5_6-poke_metal-whisk_TO_gen3-lite_6-poke_metal-whisk_MLP/fold_0/3/audio/
+Time: 00:00:00:00.504
+Total Time: 00:00:19:46.057
+
+ur5_6-poke_metal-whisk_TO_gen3-lite_6-poke_metal-whisk_MLP/fold_0/3/effort/
+Time: 00:00:00:00.300
+Total Time: 00:00:19:46.736
+
+ur5_6-poke_metal-whisk_TO_gen3-lite_6-poke_metal-whisk_MLP/fold_1/3/touch_image/
+Time: 00:00:00:00.283
+Total Time: 00:00:19:49.660
+
+ur5_6-poke_metal-whisk_TO_gen3-lite_6-poke_metal-whisk_MLP/fold_1/3/audio/
+Time: 00:00:00:00.143
+Total Time: 00:00:20:18.444
+
+ur5_6-poke_metal-whisk_TO_gen3-lite_6-poke_metal-whisk_MLP/fold_1/3/effort/
+Time: 00:00:00:00.181
+Total Time: 00:00:20:18.981
+
+ur5_6-poke_metal-whisk_TO_gen3-lite_6-poke_metal-whisk_MLP/fold_2/3/touch_image/
+Time: 00:00:00:00.274
+Total Time: 00:00:20:20.789
+
+ur5_6-poke_metal-whisk_TO_gen3-lite_6-poke_metal-whisk_MLP/fold_2/3/audio/
+Time: 00:00:00:00.139
+Total Time: 00:00:20:47.323
+
+ur5_6-poke_metal-whisk_TO_gen3-lite_6-poke_metal-whisk_MLP/fold_2/3/effort/
+Time: 00:00:00:00.312
+Total Time: 00:00:20:48.105
+
+ur5_6-poke_metal-whisk_TO_gen3-lite_6-poke_metal-whisk_MLP/fold_3/3/touch_image/
+Time: 00:00:00:00.340
+Total Time: 00:00:20:50.098
+
+ur5_6-poke_metal-whisk_TO_gen3-lite_6-poke_metal-whisk_MLP/fold_3/3/audio/
+Time: 00:00:00:00.125
+Total Time: 00:00:21:15.350
+
+ur5_6-poke_metal-whisk_TO_gen3-lite_6-poke_metal-whisk_MLP/fold_3/3/effort/
+Time: 00:00:00:00.162
+Total Time: 00:00:21:15.871

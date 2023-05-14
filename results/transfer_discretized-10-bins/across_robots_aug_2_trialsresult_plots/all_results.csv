@@ -1,0 +1,21 @@
+Source Robot,Source Behavior,Source Tool,Target Robot,Target Behavior,Target Tool,Baseline 1 Accuracy,Baseline 1 SD,Transfer Accuracy,Transfer SD,Difference in Accuracy from Baseline 1
+gen3-lite,5-whisk,metal-scissor,ur5,5-whisk,metal-scissor,0.5,0.0,0.5,0.0,0.0
+ur5,6-poke,metal-scissor,gen3-lite,6-poke,metal-scissor,0.875,0.21650635094610965,0.125,0.21650635094610965,0.75
+ur5,6-poke,metal-whisk,gen3-lite,6-poke,metal-whisk,1.0,0.0,0.5,0.0,0.5
+gen3-lite,6-poke,metal-scissor,ur5,6-poke,metal-scissor,0.625,0.21650635094610965,0.5,0.0,0.125
+ur5,5-whisk,metal-scissor,gen3-lite,5-whisk,metal-scissor,0.875,0.21650635094610965,0.25,0.25,0.625
+gen3-lite,2-stirring-slow,metal-scissor,ur5,2-stirring-slow,metal-scissor,0.875,0.21650635094610965,0.5,0.0,0.375
+ur5,4-stirring-twist,metal-whisk,gen3-lite,4-stirring-twist,metal-whisk,1.0,0.0,0.5,0.0,0.5
+gen3-lite,6-poke,metal-whisk,ur5,6-poke,metal-whisk,0.5,0.5,0.25,0.25,0.25
+gen3-lite,3-stirring-fast,metal-whisk,ur5,3-stirring-fast,metal-whisk,0.875,0.21650635094610965,0.5,0.0,0.375
+ur5,2-stirring-slow,metal-scissor,gen3-lite,2-stirring-slow,metal-scissor,0.75,0.25,0.375,0.21650635094610965,0.375
+ur5,3-stirring-fast,metal-whisk,gen3-lite,3-stirring-fast,metal-whisk,0.75,0.25,0.5,0.0,0.25
+gen3-lite,4-stirring-twist,metal-scissor,ur5,4-stirring-twist,metal-scissor,0.75,0.25,0.375,0.21650635094610965,0.375
+ur5,4-stirring-twist,metal-scissor,gen3-lite,4-stirring-twist,metal-scissor,0.625,0.21650635094610965,0.5,0.3535533905932738,0.125
+ur5,5-whisk,metal-whisk,gen3-lite,5-whisk,metal-whisk,0.625,0.21650635094610965,0.375,0.21650635094610965,0.25
+ur5,3-stirring-fast,metal-scissor,gen3-lite,3-stirring-fast,metal-scissor,0.875,0.21650635094610965,0.375,0.21650635094610965,0.5
+gen3-lite,4-stirring-twist,metal-whisk,ur5,4-stirring-twist,metal-whisk,0.75,0.25,0.625,0.414578098794425,0.125
+gen3-lite,3-stirring-fast,metal-scissor,ur5,3-stirring-fast,metal-scissor,0.75,0.25,0.5,0.0,0.25
+ur5,2-stirring-slow,metal-whisk,gen3-lite,2-stirring-slow,metal-whisk,0.875,0.21650635094610965,0.375,0.21650635094610965,0.5
+gen3-lite,5-whisk,metal-whisk,ur5,5-whisk,metal-whisk,0.625,0.414578098794425,0.5,0.0,0.125
+gen3-lite,2-stirring-slow,metal-whisk,ur5,2-stirring-slow,metal-whisk,0.875,0.21650635094610965,0.375,0.414578098794425,0.5
